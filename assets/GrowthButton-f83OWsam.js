@@ -1,2 +1,0 @@
-import{j as t}from"./index-BM8zKWHf.js";import{G as s}from"./index-CokMkgQ4.js";function i(r){const e=r.isGrowthUp;return t.jsx(t.Fragment,{children:t.jsxs("div",{className:`flex items-center ml-2 rounded-[4px] p-0.5
-  ${e?"bg-[#05C16833]":"bg-[#FF5A6533]"}`,children:[t.jsx("p",{className:` text-[10px] ${e?"text-[#14CA74]":"text-[#FF5A65] "}`,children:r.growth}),t.jsx(s,{className:`${e?"text-[#14CA74]":"text-[#FF5A65] rotate-90"}`})]})})}export{i as G};

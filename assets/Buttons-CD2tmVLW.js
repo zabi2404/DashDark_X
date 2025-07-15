@@ -1,0 +1,1 @@
+import{j as t}from"./index-HyFbeki4.js";function n(e){return t.jsxs("div",{className:" h-[30px] whitespace-nowrap  p-4 rounded-[4px] flex items-center shadow-md cursor-pointer",style:{backgroundColor:e.color||"#CB3CFF"},children:[t.jsx("p",{className:"text-[14px] text-white",children:e.title}),e.icon&&t.jsx("span",{className:"ml-2",children:e.icon})]})}export{n as B};

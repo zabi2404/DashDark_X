@@ -1,0 +1,1 @@
+import{j as e}from"./index-HyFbeki4.js";function t(){return e.jsx("div",{children:e.jsx("div",{children:e.jsxs("div",{children:[" ",e.jsx("div",{className:"flex item-center justify-center",children:e.jsx("h1",{children:"Contacts"})})]})})})}export{t as default};

@@ -1,1 +1,0 @@
-import{j as e}from"./index-BM8zKWHf.js";function r(){return e.jsx("div",{children:e.jsx("div",{children:e.jsxs("div",{children:[" ",e.jsx("div",{className:"flex item-center justify-center",children:e.jsx("h1",{children:"Table"})})]})})})}export{r as default};
